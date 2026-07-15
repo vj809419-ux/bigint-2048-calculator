@@ -1,6 +1,6 @@
 # 2048-Bit Big Integer Calculator
 
-A command-line arbitrary precision integer calculator implemented in C to perform arithmetic operations on integers up to 2048 bits, exceeding the limits of native C data types.
+A command-line integer calculator implemented in C to perform arithmetic operations on integers up to 2048 bits, exceeding the limits of native C data types.
 
 # Features
 
